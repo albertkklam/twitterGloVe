@@ -9,5 +9,6 @@ Here are some resources if you are looking to explore NLP more extensively:
 ### Stanford
 1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 2. [CS224n Lecture Videos from Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-3. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-3. [CS224d Lecture Videos from Spring 2016](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
+3. [CS224n Lecture Notes from Stanford NLP](https://github.com/stanfordnlp/cs224n-winter17-notes)
+4. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+5. [CS224d Lecture Videos from Spring 2016](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
